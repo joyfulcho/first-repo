@@ -25,5 +25,5 @@ There is no installation for this project.
 
  ## Credit
 
- - @joyfulcho79
+ - @joyfulcho
 
